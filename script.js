@@ -19,3 +19,5 @@ cross.addEventListener("click", () => {
         moodleVisible = false;
     }
 });
+
+console.log("testing git push...");
