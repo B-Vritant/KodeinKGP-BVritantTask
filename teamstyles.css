@@ -244,7 +244,9 @@ button:hover {
     line-height: 30px;
 }
 
-
+.kikgp-sm a{
+    visibility: visible;
+}
 
 .ft{
     width: 99.5%;
